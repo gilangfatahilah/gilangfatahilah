@@ -22,10 +22,10 @@ Ask me anything **[here](https://github.com/gilangfatahilah/gilangfatahilah/issu
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gilangfatahilah&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&theme=react" alt="Gilang Fatahilah Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gilangfatahilah&show_icons=true&rank_icon=github&theme=react&include_all_commits=true&count_private=true" alt="Gilang Fatahilah Stats">
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilangfatahilah&layout=compact&theme=dark&bg_color=0A0A0A" alt="Gilang Fatahilah Top Languages"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangfatahilah&layout=compact&langs_count=8&theme=react" alt="Gilang Fatahilah Top Languages"/>
 <br />
 <br />
 <br />
