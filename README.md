@@ -33,8 +33,3 @@ Ask me anything **[here](https://github.com/gilangfatahilah/gilangfatahilah/issu
 **Happy Coding!** 😊
 
 ---
-
-<div align="center">
-Credit: [gilangfatahilah](https://github.com/gilangfatahilah)
-Last Edited on: 17/08/2023
-</div>
