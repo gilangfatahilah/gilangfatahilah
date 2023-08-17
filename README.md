@@ -10,7 +10,7 @@
 I'm a Undergraduate Students at University of Bani Saleh Bekasi, I have interest in building and developing some awesome Web Application. I gained experience in Web Development From the Kampus Merdeka SIB 4 program at Dicoding Indonesia by applying Basic to Intermediate knowledges of Web Development and other relevant technologies.
 <br />
 
-I'm currently based in **[Bekasi, Jawa Barat.](https://goo.gl/maps/fVDLKT1Lx3hamygY9)**
+I'm currently based in **[Bekasi, West Java.](https://goo.gl/maps/fVDLKT1Lx3hamygY9)**
 
 <br />
 I love learning new techs and using new tools.
