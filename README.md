@@ -1,4 +1,4 @@
-<h2 align="center">Hi Everyone's👋! I'm Gilang Fatahilah and Welcome to My Github Profile !</h2>
+<h1 align="center">Hi Everyone's👋! I'm Gilang Fatahilah and Welcome to My Github Profile !</h1>
 
 ###
 
@@ -16,11 +16,11 @@
 
 ###
 
-<h3 align="center">Tech Stack</h3>
+<h2 align="center">Tech Stack</h2>
 
 ###
 
-<div align="center">
+<div align="center" width="70">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="center">Social Media</h3>
+<h2 align="center">Connect with me !</h2>
 
 ###
 
@@ -75,4 +75,4 @@
 
 <br clear="both">
 
-###
+<h6 align="center">Made with ❤️ by Me (probably)</h6>
