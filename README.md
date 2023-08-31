@@ -75,6 +75,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gilangfatahilah/gilangfatahilah/output/snake.svg" alt="Snake animation" />
-
 ###
