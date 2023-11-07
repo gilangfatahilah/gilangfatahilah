@@ -1,4 +1,4 @@
-<h1 align="center">Hi Everyone's👋! Welcome to My Github Profile !</h1>
+<h1 align="center">Hi There's👋!</h1>
 
 ###
 
@@ -10,9 +10,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gilangfatahilah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="center">Connect with me !</h2>
-
 ###
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/CRWdhM1XgJ7Pi/giphy.gif"  />
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gilangfatahilah/gilangfatahilah/output/github-contribution-grid-snake.svg" />
+  <br>
+</div>
 
 <div align="center">
   <a href="https://instagram.com/gilanqf" target="_blank">
@@ -21,12 +26,6 @@
   <a href="https://www.linkedin.com/in/gilang-fatahilah/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/CRWdhM1XgJ7Pi/giphy.gif"  />
 </div>
 
 
