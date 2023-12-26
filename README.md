@@ -3,9 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gilangfatahilah&show_icons=true&rank_icon=github&theme=react&include_all_commits=true&count_private=true" height="150" alt="stats graph"  /> 
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=gilangfatahilah&show_icons=true&rank_icon=github&theme=react&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />  -->
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gilangfatahilah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=gilangfatahilah&theme=tokyonight&show_icons=true&rank_icon=github&hide_border=false&count_private=true" /> <br>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gilangfatahilah&theme=tokyonight&hide_border=false" /> <br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilangfatahilah&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" width="35%"/>
 </div>
 
 ###
@@ -23,6 +27,9 @@
   </a>
   <a href="https://www.linkedin.com/in/gilang-fatahilah/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+   <a href="https://drive.google.com/drive/folders/1-IkCWCs2Bhw54-9UxArS3MAe4yQb6bJp?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-565f89?style=for-the-badge&logo=About.me&logoColor=white" height="30" alt="portfolio"  />
   </a>
 </div>
 
