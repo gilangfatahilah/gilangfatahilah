@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/gilang-fatahilah/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-   <a href="https://drive.google.com/drive/folders/1-IkCWCs2Bhw54-9UxArS3MAe4yQb6bJp?usp=drive_link" target="_blank">
+   <a href="https://gilang-fatahilah.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-565f89?style=for-the-badge&logo=About.me&logoColor=white" height="30" alt="portfolio"  />
   </a>
 </div>
